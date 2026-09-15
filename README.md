@@ -1,10 +1,10 @@
-# ✨ Prompt Library
+# Prompt Library
 
 A clean, personal collection of reusable AI prompts for work, writing, MacBook help, image creation, quick commands, and more.
 
 ---
 
-## 🧭 Categories
+## Categories
 
 [💼 Jobs](#-jobs) · [✍️ Writing](#️-writing) · [💻 MacBook](#-macbook) · [🖼️ Images](#️-images) · [⚡ Slash Commands](#-slash-commands) · [📌 Other](#-other)
 
