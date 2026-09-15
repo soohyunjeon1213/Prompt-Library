@@ -77,6 +77,4 @@ A clean, personal collection of reusable AI prompts for work, writing, MacBook h
 
 [↑ Back to Categories](#-categories)
 
----
 
-<sub>Keep prompts concise, reusable, and easy to scan.</sub>
