@@ -2,10 +2,7 @@
 
 <h1>Prompt Library</h1>
 
-<a id="categories"></a>
-
-<h2>Categories</h2>
-
+Categories:
 <p>
   <a href="#jobs">Jobs</a> ·
   <a href="#writing">Writing</a> ·
